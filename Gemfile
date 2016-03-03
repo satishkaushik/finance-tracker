@@ -11,6 +11,7 @@ gem 'sass-rails', '~> 5.0'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stock_quote'
 
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
